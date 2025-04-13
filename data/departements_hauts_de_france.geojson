@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Aisne",
+        "code": "02"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0,
+              49.5
+            ],
+            [
+              3.2,
+              49.5
+            ],
+            [
+              3.2,
+              49.7
+            ],
+            [
+              3.0,
+              49.7
+            ],
+            [
+              3.0,
+              49.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Nord",
+        "code": "59"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0,
+              50.5
+            ],
+            [
+              3.2,
+              50.5
+            ],
+            [
+              3.2,
+              50.7
+            ],
+            [
+              3.0,
+              50.7
+            ],
+            [
+              3.0,
+              50.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Oise",
+        "code": "60"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0,
+              49.2
+            ],
+            [
+              2.2,
+              49.2
+            ],
+            [
+              2.2,
+              49.4
+            ],
+            [
+              2.0,
+              49.4
+            ],
+            [
+              2.0,
+              49.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pas-de-Calais",
+        "code": "62"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2,
+              50.3
+            ],
+            [
+              2.4,
+              50.3
+            ],
+            [
+              2.4,
+              50.5
+            ],
+            [
+              2.2,
+              50.5
+            ],
+            [
+              2.2,
+              50.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Somme",
+        "code": "80"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5,
+              49.8
+            ],
+            [
+              2.7,
+              49.8
+            ],
+            [
+              2.7,
+              50.0
+            ],
+            [
+              2.5,
+              50.0
+            ],
+            [
+              2.5,
+              49.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
